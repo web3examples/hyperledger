@@ -8,7 +8,7 @@ Hyperledger pages:
 | Hyperledger Concepts      | Instances                | More info (text) | More info (video) |   Install  |  Examples |
 | ---------------           |  ---------               | ---------       | ---------          | ---------  |  -------- | 
 | General info              | [hyperledger]            | [wiki]
-| Frameworks                | [_fabric]<br>[burrow]<br>[grid]<br>[indy]<br>[iroha]<br>[sawtooth]
+| Frameworks                | [fabric]<br>[burrow]<br>[grid]<br>[indy]<br>[iroha]<br>[sawtooth]
 | Tools                     | [aries]<br>[caliper]<br>[cello]<br>[composer]<br>[explorer]<br>[quilt]<br>[transact]<br>[ursa]
 
 [hyperledger]:  https://www.hyperledger.org/projects
