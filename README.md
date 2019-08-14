@@ -14,7 +14,7 @@ Hyperledger pages:
 [hyperledger]:  https://www.hyperledger.org/projects
 [wiki]: https://wiki.hyperledger.org
 
-[_fabric]:  #fabric
+[fabric]:   #fabric
 [burrow]:   https://www.hyperledger.org/projects/burrow
 [grid]:     https://www.hyperledger.org/projects/grid
 [indy]:     https://www.hyperledger.org/projects/indy
@@ -34,12 +34,12 @@ Hyperledger pages:
 ## fabric
 | Hyperledger fabric Concepts      | Instances            | More info (text) | More info (video) |   Install  |  Examples |
 | ---------------                  |  ---------               | ---------       | ---------          | ---------  |  -------- | 
-| General info                     | [fabric]
+| General info                     | [fabric_project]
 | Architecture                     | 
 | Developer resources              | 
 | Full node software               | 
 | Development of hyperledger itself| 
 | Wallets
  
-[fabric]: https://www.hyperledger.org/projects/fabric
+[fabric_project]: https://www.hyperledger.org/projects/fabric
 
