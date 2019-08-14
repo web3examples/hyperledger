@@ -12,7 +12,9 @@ Hyperledger pages:
 
 [wiki]: https://wiki.hyperledger.org
 
-[Hyperledger fabric]: hyperledger#hyperledger-fabric
+[Hyperledger fabric]: #hyperledger-fabric
+
+
 
 ## Hyperledger fabric
 | Hyperledger fabric Concepts      | Instances            | More info (text) | More info (video) |   Install  |  Examples |
