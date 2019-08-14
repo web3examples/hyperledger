@@ -15,9 +15,9 @@ Hyperledger pages:
 [wiki]: https://wiki.hyperledger.org
 
 [fabric]:   #fabric
-[burrow]:   https://www.hyperledger.org/projects/burrow
+[burrow]:   https://www.hyperledger.org/projects/hyperledger-burrow
 [grid]:     https://www.hyperledger.org/projects/grid
-[indy]:     https://www.hyperledger.org/projects/indy
+[indy]:     https://www.hyperledger.org/projects/hyperledger-indy
 [iroha]:    https://www.hyperledger.org/projects/iroha
 [sawtooth]: https://www.hyperledger.org/projects/sawtooth
 
