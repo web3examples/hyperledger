@@ -32,14 +32,32 @@ Hyperledger pages:
 
 
 ## fabric
-| Hyperledger fabric Concepts      | Instances            | More info (text) | More info (video) |   Install  |  Examples |
-| ---------------                  |  ---------               | ---------       | ---------          | ---------  |  -------- | 
-| General info                     | [fabric_project]
-| Architecture                     | 
-| Developer resources              | 
+| Hyperledger fabric Concepts      | Instances                                             | More info (text) | More info (video) |   Install  |  Examples |
+| ---------------                  |  ---------                                            | ---------       | ---------          | ---------  |  -------- | 
+| General info                     | [fabric_project]                                      | [fabric_wiki]
+| Architecture                     | [fabric_design]                                       | [fabric_arch]
+| Installing                       | [fabric_install1]<br>[fabric_install2]<br>[fabric_install3]<br>[fabric_install4]
+| Developer resources              | [fabric_docs]<br>[fabric_docs_2.0]<br>[fabric_github] | [fabric_tutorial]
 | Full node software               | 
+| Client                           | [fabric_sdknode]<br>[fabric_jsclient]
 | Development of hyperledger itself| 
 | Wallets
  
-[fabric_project]: https://www.hyperledger.org/projects/fabric
+[fabric_project]:   https://www.hyperledger.org/projects/fabric
+[fabric_wiki]:      https://wiki.hyperledger.org/display/fabric/Hyperledger+Fabric
+[fabric_design]:    https://wiki.hyperledger.org/display/fabric/Design+Documents
 
+[fabric_docs]:      https://hyperledger-fabric.readthedocs.io/en/release-1.4/
+[fabric_docs_2.0]:  https://hyperledger-fabric.readthedocs.io/en/latest/
+[fabric_github]:    https://github.com/hyperledger/fabric
+
+[fabric_install1]:  https://ablockchainbuddy.blogspot.com/p/a-blockchain-buddy-start-with.html
+[fabric_install2]:  https://hackernoon.com/hyperledger-fabric-installation-guide-74065855eca9
+[fabric_install3]:  https://www.techrepublic.com/article/how-to-install-hyperledger-fabric-on-ubuntu/
+[fabric_install4]:  https://makandracards.com/fabric/57573-hyperledger-fabric-in-windows-10-wsl
+
+[fabric_arch]:      https://www.serial-coder.com/post/demystifying-hyperledger-fabric-fabric-architecture/
+
+[fabric_jsclient]:  https://www.npmjs.com/package/fabric-client
+[fabric_sdknode]:   https://fabric-sdk-node.github.io/release-1.4/index.html
+[fabric_tutorial]:  https://blockgeeks.com/guides/hyperledger-fabric-tutorial-part-1/
