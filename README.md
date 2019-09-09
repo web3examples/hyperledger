@@ -37,6 +37,7 @@ Hyperledger pages:
 | General info                     | [fabric_project]                                      | [fabric_wiki]
 | Architecture                     | [fabric_design]                                       | [fabric_arch]
 | Installing                       | [fabric_install1]<br>[fabric_install2]<br>[fabric_install3]<br>[fabric_install4]
+| Node as as service               | [forma]<br>[oracle]
 | Developer resources              | [fabric_docs]<br>[fabric_docs_2.0]<br>[fabric_github] | [fabric_tutorial]
 | Full node software               | 
 | Client                           | [fabric_sdknode]<br>[fabric_jsclient]
@@ -55,6 +56,10 @@ Hyperledger pages:
 [fabric_install2]:  https://hackernoon.com/hyperledger-fabric-installation-guide-74065855eca9
 [fabric_install3]:  https://www.techrepublic.com/article/how-to-install-hyperledger-fabric-on-ubuntu/
 [fabric_install4]:  https://makandracards.com/fabric/57573-hyperledger-fabric-in-windows-10-wsl
+
+[forma]:            https://worldsibu.tech/forma/
+[oracle]:           https://cloud.oracle.com/en_US/blockchain
+
 
 [fabric_arch]:      https://www.serial-coder.com/post/demystifying-hyperledger-fabric-fabric-architecture/
 
